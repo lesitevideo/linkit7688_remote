@@ -31,4 +31,4 @@ client.on('connect', function(connection) {
     
 });
  
-client.connect('ws://192.168.1.44:8080/', 'echo-protocol');
+client.connect('ws://192.168.100.1:8080/', 'echo-protocol');
