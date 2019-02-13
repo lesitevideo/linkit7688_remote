@@ -1,0 +1,15 @@
+{
+  "name": "rd",
+  "version": "1.0.0",
+  "description": "rc node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kinoki",
+  "license": "MIT",
+  "dependencies": {
+    "http": "0.0.0",
+    "websocket": "^1.0.28"
+  }
+}
